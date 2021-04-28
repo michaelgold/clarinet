@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["MediaType",""]],"fn":[["serialize_media_type","Serialize a `MediaType` enum into a human readable string.  The default serialization for media types is and integer."]]});

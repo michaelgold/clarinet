@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["dirs","To avoid the poorly managed dirs crate"]],"struct":[["DenoDir","`DenoDir` serves as coordinator for multiple `DiskCache`s containing them in single directory that can be controlled with `$DENO_DIR` env variable."]]});

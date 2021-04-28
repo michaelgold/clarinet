@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["clarinet"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/convert/trait.Into.html\" title=\"trait core::convert::Into\">Into</a>&lt;<a class=\"struct\" href=\"https://docs.rs/url/2.2.1/url/struct.Url.html\" title=\"struct url::Url\">Url</a>&gt; for <a class=\"struct\" href=\"clarinet/test/ast/struct.Location.html\" title=\"struct clarinet::test::ast::Location\">Location</a>","synthetic":false,"types":["clarinet::test::ast::Location"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

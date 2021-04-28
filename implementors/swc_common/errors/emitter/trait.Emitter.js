@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["clarinet"] = [{"text":"impl Emitter for <a class=\"struct\" href=\"clarinet/test/ast/struct.ErrorBuffer.html\" title=\"struct clarinet::test::ast::ErrorBuffer\">ErrorBuffer</a>","synthetic":false,"types":["clarinet::test::ast::ErrorBuffer"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

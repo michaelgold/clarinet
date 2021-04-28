@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["generate_executable_file",""],["get_installer_root",""],["infer_name_from_url",""],["install",""],["is_in_path",""],["is_remote_url",""],["validate_name",""]],"struct":[["DRIVE_LETTER_REG",""],["EXEC_NAME_RE",""]]});

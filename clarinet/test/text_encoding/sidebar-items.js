@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["convert_to_utf8","Attempts to convert the provided bytes to a UTF-8 string."],["detect_charset","Attempts to detect the character encoding of the provided bytes."]]});

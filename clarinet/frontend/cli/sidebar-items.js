@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Command",""],["Generate",""]],"fn":[["execute_changes",""],["main",""]],"struct":[["Check",""],["Console",""],["GenerateContract",""],["GenerateNotebook",""],["GenerateProject",""],["Opts",""],["Test",""]]});

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["clarinet"] = [{"text":"impl ModuleLoader for <a class=\"struct\" href=\"clarinet/test/module_loader/struct.CliModuleLoader.html\" title=\"struct clarinet::test::module_loader::CliModuleLoader\">CliModuleLoader</a>","synthetic":false,"types":["clarinet::test::module_loader::CliModuleLoader"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

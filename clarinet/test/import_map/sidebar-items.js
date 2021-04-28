@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["SPECIAL_PROTOCOLS",""]],"fn":[["is_special",""]],"struct":[["ImportMap",""],["ImportMapError",""]],"type":[["ScopesMap",""],["SpecifierMap",""]]});

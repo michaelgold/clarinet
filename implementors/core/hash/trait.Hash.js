@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["clarinet"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/hash/trait.Hash.html\" title=\"trait core::hash::Hash\">Hash</a> for <a class=\"enum\" href=\"clarinet/test/specifier_handler/enum.Emit.html\" title=\"enum clarinet::test::specifier_handler::Emit\">Emit</a>","synthetic":false,"types":["clarinet::test::specifier_handler::Emit"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

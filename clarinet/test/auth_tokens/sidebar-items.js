@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AuthToken",""],["AuthTokens","A structure which contains bearer tokens that can be used when sending requests to websites, intended to authorize access to private resources such as remote modules."]]});
